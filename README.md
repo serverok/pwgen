@@ -9,5 +9,5 @@ https://blog.hostonnet.com/python-pwgen
 On Ubuntu, run
 
 ```
-mkdir ~/bin && cd ~/bin && wget https://github.com/HostOnNet/pwgen/raw/master/pwgen && chmod 755 pwgen
+mkdir ~/bin && cd ~/bin && wget https://github.com/serverok/pwgen/raw/master/pwgen.py -O pwgen && chmod 755 pwgen
 ```
